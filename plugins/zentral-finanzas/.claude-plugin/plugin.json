@@ -2,6 +2,9 @@
   "name": "zentral-finanzas",
   "description": "Flujos de tesorería y finanzas en Zentral: conciliación bancaria.",
   "version": "0.1.0",
-  "author": { "name": "Intellisoft Innovation" },
-  "repository": "https://github.com/intellisoftinnovation/zentral_managment_skills"
+  "author": {
+    "name": "Intellisoft Innovation"
+  },
+  "repository": "https://github.com/intellisoftinnovation/zentral_managment_skills",
+  "license": "MIT"
 }

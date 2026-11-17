@@ -2,6 +2,9 @@
   "name": "zentral-rubro-agencia-marketing",
   "description": "Borrador. Rubro agencia de marketing sobre Zentral.",
   "version": "0.1.0",
-  "author": { "name": "Intellisoft Innovation" },
-  "repository": "https://github.com/intellisoftinnovation/zentral_managment_skills"
+  "author": {
+    "name": "Intellisoft Innovation"
+  },
+  "repository": "https://github.com/intellisoftinnovation/zentral_managment_skills",
+  "license": "MIT"
 }

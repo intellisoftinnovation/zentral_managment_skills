@@ -1,6 +1,7 @@
 ---
 name: rubro-construccion
 description: Contexto del rubro construcción e ingeniería para operar Zentral en Perú. Úsala cuando la empresa conectada sea una constructora, contratista o empresa de ingeniería, o cuando el usuario hable de obras, valorizaciones, metrados, residente de obra, subcontratistas, adelantos de obra, fondo de garantía o detracciones de construcción. Traduce esos conceptos a proyectos, hitos, proveedores y tesorería de Zentral y define los KPIs por obra.
+license: MIT
 metadata:
   version: "0.1.0"
   estado: estable

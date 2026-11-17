@@ -1,6 +1,7 @@
 ---
 name: rubro-agencia-marketing
 description: Contexto del rubro agencia de marketing, publicidad o comunicación para operar Zentral. Úsala cuando la empresa conectada sea una agencia, o cuando el usuario hable de fee mensual, retainer, campañas, piezas, pauta, brief, cuentas o ejecutivos de cuenta. Traduce esos conceptos a clientes, proyectos, hitos, tareas y gastos de Zentral.
+license: MIT
 metadata:
   version: "0.1.0"
   estado: borrador

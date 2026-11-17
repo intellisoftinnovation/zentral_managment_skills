@@ -1,6 +1,7 @@
 ---
 name: rubro-servicios-profesionales
 description: Contexto del rubro servicios profesionales (estudios contables, estudios legales, consultoras) para operar Zentral. Úsala cuando la empresa conectada preste servicios por iguala, por encargo o por horas, o cuando el usuario hable de cartera de clientes, igualas mensuales, honorarios, encargos, expedientes o casos. Traduce esos conceptos a clientes, proyectos, cobros recurrentes y tareas de Zentral.
+license: MIT
 metadata:
   version: "0.1.0"
   estado: borrador

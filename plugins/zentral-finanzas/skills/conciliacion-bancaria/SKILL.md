@@ -1,6 +1,7 @@
 ---
 name: conciliacion-bancaria
 description: Concilia un estado de cuenta bancario en Zentral de principio a fin. Valida e importa el extracto, asocia cada movimiento a facturas, comprobantes de proveedor o gastos (o lo clasifica), lo publica y cierra el período de conciliación. Úsala cuando el usuario comparta un extracto (PDF, CSV, XLSX o captura) o pida «concilia el banco», «sube el estado de cuenta», «cuadra la cuenta de octubre», «qué movimientos faltan publicar» o «cierra la conciliación».
+license: MIT
 metadata:
   version: "0.1.0"
   estado: estable

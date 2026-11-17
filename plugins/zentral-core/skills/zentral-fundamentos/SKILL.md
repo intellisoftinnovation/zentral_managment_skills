@@ -1,6 +1,7 @@
 ---
 name: zentral-fundamentos
 description: Reglas obligatorias para operar el ERP Zentral a través de su MCP (herramientas zentral_*). Úsala siempre antes de consultar o modificar cualquier dato de Zentral: empresas, clientes, CRM, proyectos, tareas, tesorería, gastos, RRHH, nómina, OKR, reuniones o espacios. Cubre cómo elegir la empresa correcta, leer el contexto de la empresa (página «Perfil IA» y procesos en Espacios), diagnosticar herramientas faltantes, distinguir acciones ejecutadas de propuestas que requieren aprobación, usar idempotency_key, paginar y reportar resultados.
+license: MIT
 metadata:
   version: "0.1.0"
   estado: estable

@@ -64,3 +64,7 @@ node scripts/validate.mjs
 ```
 
 Este repositorio es público: no incluyas datos de clientes, montos reales, nombres de personas ni detalles internos de la plataforma.
+
+## Licencia
+
+[MIT](LICENSE)

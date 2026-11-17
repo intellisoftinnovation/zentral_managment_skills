@@ -1,6 +1,7 @@
 ---
 name: briefing-gerencial
 description: Prepara el briefing de gerencia de una empresa en Zentral, en versión semanal o diaria. Cubre caja disponible y prevista, cobranzas vencidas, pagos por vencer, resultado del mes, trabajo por facturar, proyectos en riesgo, pipeline comercial, temas de personal y avance de OKRs, con alertas y acciones sugeridas. Es de solo lectura. Úsala cuando el usuario pida «cómo va la empresa», «resumen de la semana», «briefing», «qué tengo que mirar hoy», «estado general» o un reporte para gerencia.
+license: MIT
 metadata:
   version: "0.1.0"
   estado: estable
