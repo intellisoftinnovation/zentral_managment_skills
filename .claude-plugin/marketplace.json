@@ -1,0 +1,40 @@
+{
+  "name": "zentral-skills",
+  "owner": {
+    "name": "Intellisoft Innovation"
+  },
+  "metadata": {
+    "description": "Skills para gestionar una empresa con el MCP de Zentral, organizadas por núcleo, módulo, rutina y rubro.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "zentral-core",
+      "source": "./plugins/zentral-core",
+      "description": "Obligatorio. Reglas para operar el MCP de Zentral con seguridad: empresa correcta, aprobaciones, idempotencia y contexto de la empresa.",
+      "version": "0.1.0",
+      "category": "core"
+    },
+    {
+      "name": "zentral-finanzas",
+      "source": "./plugins/zentral-finanzas",
+      "description": "Flujos de tesorería y finanzas en Zentral: conciliación bancaria.",
+      "version": "0.1.0",
+      "category": "modulo"
+    },
+    {
+      "name": "zentral-rutinas",
+      "source": "./plugins/zentral-rutinas",
+      "description": "Rutinas recurrentes por rol: briefing gerencial.",
+      "version": "0.1.0",
+      "category": "rutina"
+    },
+    {
+      "name": "zentral-rubro-construccion",
+      "source": "./plugins/zentral-rubro-construccion",
+      "description": "Rubro construcción e ingeniería: obras, valorizaciones, subcontratistas y detracciones sobre Zentral.",
+      "version": "0.1.0",
+      "category": "rubro"
+    }
+  ]
+}

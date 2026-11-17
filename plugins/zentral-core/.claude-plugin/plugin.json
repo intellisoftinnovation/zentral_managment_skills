@@ -1,0 +1,7 @@
+{
+  "name": "zentral-core",
+  "description": "Obligatorio. Reglas para operar el MCP de Zentral con seguridad: empresa correcta, aprobaciones, idempotencia y contexto de la empresa.",
+  "version": "0.1.0",
+  "author": { "name": "Intellisoft Innovation" },
+  "repository": "https://github.com/intellisoftinnovation/zentral_managment_skills"
+}
